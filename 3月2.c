@@ -1,22 +1,15 @@
 #include <stdio.h>
 
-
-
-
-
-
-
-
 //int main()
 //{
 //	int price = 0;
 //
-//	printf("ÇëÊäÈë½ğ¶î£¨Ôª£©");
+//	printf("Ã‡Ã«ÃŠÃ¤ÃˆÃ«Â½Ã°Â¶Ã®Â£Â¨Ã”ÂªÂ£Â©");
 //	scanf("%d", &price);
 //
 //	int change = 100 - price;
 //
-//	printf("ÕÒÄú%dÔª\n", change);
+//	printf("Ã•Ã’Ã„Ãº%dÃ”Âª\n", change);
 //
 //	return 0;
 //}
@@ -26,4 +19,5 @@
 //{
 //	printf("%d", 35 + 6 * 2 / 3);
 //	return 0;
+
 //}
